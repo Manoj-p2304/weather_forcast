@@ -22,9 +22,9 @@ Welcome to our Infinite Scroll Weather Forecast Web Application! This project pr
 ## Screenshots
 
 ![Screenshot 1](images/image.png)
-![Screenshot 2](images/image copy.png)
-![Screenshot 3](images/image copy 2.png)
-![Screenshot 4](images/image copy 3.png)
+![Screenshot 2](images/imagecopy.png)
+![Screenshot 3](images/imagecopy2.png)
+![Screenshot 4](images/imagecopy3.png)
 
 ## Getting Started
 
