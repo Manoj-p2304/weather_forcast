@@ -26,7 +26,7 @@ Welcome to our Infinite Scroll Weather Forecast Web Application! This project pr
 ![Screenshot 3](./images/imagecopy2.png)
 ![Screenshot 4](./images/imagecopy3.png)
 
-- **If screenshot is not visible please check the ./images folder in root folder**
+- **If screenshot is not visible please check the ./images folder in root of the project**
 
 ## Getting Started
 
