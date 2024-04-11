@@ -19,6 +19,13 @@ Welcome to our Infinite Scroll Weather Forecast Web Application! This project pr
 - **Tailwind CSS:** Styled with Tailwind CSS for a sleek and responsive design.
 - **OpenWeather API:** Integrated with the OpenWeather API to retrieve weather information for cities.
 
+## Screenshots
+
+![Screenshot 1](images/image.png)
+![Screenshot 2](images/image copy.png)
+![Screenshot 3](images/image copy 2.png)
+![Screenshot 4](images/image copy 3.png)
+
 ## Getting Started
 
 1. Clone this repository.
